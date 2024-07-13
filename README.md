@@ -7,4 +7,4 @@
 
 ## 这是我的模型
 
-![模型示例1](myplot.png)
+![模型示例1](images/myplot.png)
